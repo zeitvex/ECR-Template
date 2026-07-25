@@ -1,0 +1,40 @@
+# LaTeX temporary files
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+_minted-*/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+
+# Keep PDF, Word, ZIP and image assets in the repository.
